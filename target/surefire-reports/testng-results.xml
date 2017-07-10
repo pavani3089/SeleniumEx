@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="projectMaven.TestloginEx" duration-ms="12342" started-at="2017-07-10T06:02:19Z" finished-at="2017-07-10T06:02:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12342" started-at="2017-07-10T06:02:19Z" finished-at="2017-07-10T06:02:31Z">
+      <class name="projectMaven.TestloginEx">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:projectMaven.TestloginEx@6108b2d7]" name="setUp" is-config="true" duration-ms="5368" started-at="2017-07-09T23:02:19Z" finished-at="2017-07-09T23:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:projectMaven.TestloginEx@6108b2d7]" name="test1" duration-ms="6377" started-at="2017-07-09T23:02:25Z" finished-at="2017-07-09T23:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDrop()[pri:0, instance:projectMaven.TestloginEx@6108b2d7]" name="tearDrop" is-config="true" duration-ms="570" started-at="2017-07-09T23:02:31Z" finished-at="2017-07-09T23:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDrop -->
+      </class> <!-- projectMaven.TestloginEx -->
+    </test> <!-- Command line test -->
+  </suite> <!-- projectMaven.TestloginEx -->
+</testng-results>
