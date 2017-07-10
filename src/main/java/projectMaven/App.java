@@ -1,7 +1,7 @@
 package projectMaven;
 
 /**
- * Hello world!
+ * Hello world!  wewer
  *
  */
 public class App 
